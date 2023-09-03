@@ -1,2 +1,2 @@
 # pg-toolkit
-DBA tools and documents
+Personal tools for PostgreSQL
